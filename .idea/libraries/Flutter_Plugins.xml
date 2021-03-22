@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../flutterSDK/flutter_windows_1.22.5-stable/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_blue-0.7.3" />
+      <root url="file://$PROJECT_DIR$/../../flutterSDK/flutter_windows_1.22.5-stable/flutter/packages/integration_test" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
